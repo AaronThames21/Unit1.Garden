@@ -34,7 +34,7 @@
 #level-4 {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
-    grid-template-rows: auto auto auto auto;
+    grid-template-rows: auto auto
 }
 #level-4 .peas {
     grid-column: span 2;
